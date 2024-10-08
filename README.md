@@ -36,6 +36,8 @@ Within Burp Suite, select the HTTP requests you wish to export from the Site Map
 Right-click on the selected requests.
 Choose the Export to GBounty option from the context menu.
 
+# ![Export](/static/export.png)
+
 ### Save the ZIP File:
 
 A file chooser dialog will appear. Select the desired location and name for the ZIP file (default is requests.zip).
