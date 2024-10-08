@@ -1,7 +1,5 @@
 # ![GBounty Profiles Designer Logo](/static/logo.png)
 
-# GBounty Profiles Designer
-
 [![GitHub release](https://img.shields.io/github/release/bountysecurity/export-to-gbounty.svg)](https://github.com/bountysecurity/export-to-gbounty/releases)
 [![GitHub last commit](https://img.shields.io/github/last-commit/bountysecurity/export-to-gbounty.svg)](https://github.com/bountysecurity/export-to-gbounty/commits/main)
 [![GitHub issues](https://img.shields.io/github/issues/bountysecurity/export-to-gbounty.svg)](https://github.com/bountysecurity/export-to-gbounty/issues)
