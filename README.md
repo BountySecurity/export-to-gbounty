@@ -8,7 +8,7 @@
 
 # Export to GBounty
 
-**Export to GBounty** is a Burp Suite extension developed using the Montoya API. It allows users to export selected HTTP requests from various Burp Suite tools, including the Site Map Tree, Repeater, and Message Editor, into a compressed ZIP file. This ZIP file can be directly used with the GBounty scanner using the command `gbounty -rf requests.zip`, enabling streamlined vulnerability scanning and management.
+**Export to GBounty** is a Burp Suite extension developed using the Montoya API. It allows users to export selected HTTP requests from Burp Suite, including the Site Map Tree, Repeater, and Message Editor, into a compressed ZIP file. This ZIP file can be directly used with the GBounty scanner using the command `gbounty -rf requests.zip`, enabling streamlined vulnerability scanning and management.
 
 ## Features
 
