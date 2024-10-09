@@ -3,8 +3,11 @@
 [![GitHub release](https://img.shields.io/github/release/bountysecurity/export-to-gbounty.svg)](https://github.com/bountysecurity/export-to-gbounty/releases)
 [![GitHub last commit](https://img.shields.io/github/last-commit/bountysecurity/export-to-gbounty.svg)](https://github.com/bountysecurity/export-to-gbounty/commits/main)
 [![GitHub issues](https://img.shields.io/github/issues/bountysecurity/export-to-gbounty.svg)](https://github.com/bountysecurity/export-to-gbounty/issues)
+[![Downloads](https://img.shields.io/github/downloads/bountysecurity/export-to-gbounty/total.svg)](https://github.com/bountysecurity/export-to-gbounty/releases)
+[![Contributors](https://img.shields.io/github/contributors/bountysecurity/export-to-gbounty.svg)](https://github.com/bountysecurity/export-to-gbounty/graphs/contributors)
 [![GitHub forks](https://img.shields.io/github/forks/bountysecurity/export-to-gbounty.svg)](https://github.com/bountysecurity/export-to-gbounty/network)
 [![GitHub stars](https://img.shields.io/github/stars/bountysecurity/export-to-gbounty.svg)](https://github.com/bountysecurity/export-to-gbounty/stargazers)
+
 
 # Export to GBounty
 
